@@ -1,0 +1,6 @@
+movie_id,title,overview,genres,keywords
+1,Avatar,A marine on an alien planet,"[{""id"": 28, ""name"": ""Action""}, {""id"": 12, ""name"": ""Adventure""}]","[{""id"": 1, ""name"": ""future""}, {""id"": 2, ""name"": ""alien""}]"
+2,Titanic,A romance on a sinking ship,"[{""id"": 18, ""name"": ""Drama""}, {""id"": 10749, ""name"": ""Romance""}]","[{""id"": 3, ""name"": ""ship""}, {""id"": 4, ""name"": ""love""}]"
+3,The Avengers,Superheroes save the world,"[{""id"": 28, ""name"": ""Action""}, {""id"": 878, ""name"": ""Sci-Fi""}]","[{""id"": 5, ""name"": ""superhero""}, {""id"": 6, ""name"": ""team""}]"
+4,Interstellar,Astronauts travel through space,"[{""id"": 878, ""name"": ""Sci-Fi""}, {""id"": 12, ""name"": ""Adventure""}]","[{""id"": 7, ""name"": ""space""}, {""id"": 8, ""name"": ""wormhole""}]"
+5,Inception,A thief enters dreams,"[{""id"": 28, ""name"": ""Action""}, {""id"": 878, ""name"": ""Sci-Fi""}]","[{""id"": 9, ""name"": ""dream""}, {""id"": 10, ""name"": ""subconscious""}]"

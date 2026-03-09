@@ -1,0 +1,7 @@
+
+Top 5 Insights:
+1. Customers with month-to-month contracts churn more frequently.
+2. Higher monthly charges correlate with higher churn probability.
+3. Customers with shorter tenure (0-12 months) churn the most.
+4. Fiber optic internet users show higher churn compared to DSL.
+5. Longer tenure customers tend to have lower churn rates.
